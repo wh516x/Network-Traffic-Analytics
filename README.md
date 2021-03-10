@@ -1,5 +1,6 @@
 # Network-Traffic-Analytics
-Network Traffic Analytics Implementation with ODL
+
+## Network Traffic Analytics Implementation with ODL
 
 
 The main target is to integrate ODL machine into PNDA machine to test the capabilities of PNDA Analytics Engine. We use GNS3 to create network topology and use this data for PNDA Analytics using openflow1.3 protocol.
@@ -15,14 +16,14 @@ The requirements to integrate OpenDaylight with PNDA
 Document shows the errors encountered while Implemente Machine Learning with ODL
 https://wh516x.medium.com/pnda-install-issue-845dee81372c
 
-# OpenStack
+## OpenStack
 
 Single Node Red Hat Openstack Deployment
 https://wh516x.medium.com/single-node-rhos-deployment-93de81e6bf9e
 
-# OpenDayLight
+## OpenDayLight
 
-# Network Traffic Prediction using Knime Tool
+## Network Traffic Prediction using Knime Tool
 
 https://wh516x.medium.com/ndr-with-ann-for-short-term-network-traffic-prediction-d15a0d9572be
 
