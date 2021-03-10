@@ -14,3 +14,6 @@ The requirements to integrate OpenDaylight with PNDA
 **
 Document shows the errors encountered while Implemente Machine Learning with ODL
 https://wh516x.medium.com/pnda-install-issue-845dee81372c
+
+Single Node Red Hat Openstack Deployment
+https://wh516x.medium.com/single-node-rhos-deployment-93de81e6bf9e
