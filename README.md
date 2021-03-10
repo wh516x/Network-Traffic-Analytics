@@ -21,6 +21,9 @@ https://wh516x.medium.com/pnda-install-issue-845dee81372c
 Single Node Red Hat Openstack Deployment
 https://wh516x.medium.com/single-node-rhos-deployment-93de81e6bf9e
 
+Redhat OpenStack Deployment
+https://wh516x.medium.com/rhos-deployment-734743a582e1
+
 ## OpenDayLight
 
 ## Network Traffic Prediction using Knime Tool
