@@ -24,6 +24,8 @@ https://wh516x.medium.com/single-node-rhos-deployment-93de81e6bf9e
 Redhat OpenStack Deployment
 https://wh516x.medium.com/rhos-deployment-734743a582e1
 
+Install OpenStack Rocky Centos 7 at LogicFinder v1.0
+
 ## OpenContrail
 Install OpenStack with OpenContrail at LogicFinder v1.0
 
