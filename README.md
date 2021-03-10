@@ -19,7 +19,8 @@ Single Node Red Hat Openstack Deployment
 https://wh516x.medium.com/single-node-rhos-deployment-93de81e6bf9e
 
 
-
+**Network Traffic Prediction using Knime Tool
+**
 https://wh516x.medium.com/ndr-with-ann-for-short-term-network-traffic-prediction-d15a0d9572be
 
 https://wh516x.medium.com/nta-using-ann-441c9c10fed7-441c9c10fed7
