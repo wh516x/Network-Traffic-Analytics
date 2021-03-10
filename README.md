@@ -51,3 +51,6 @@ https://wh516x.medium.com/nta-with-neural-networks-4f9b69a50af4
 
 ## LAGIOS (Logic Finders’ Nagios)
 
+## ODL Integrated Features 
+https://logicfinder.medium.com/dos-ddos0phishing-attack-5fad188dbb48
+
