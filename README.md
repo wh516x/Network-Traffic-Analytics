@@ -50,14 +50,19 @@ https://wh516x.medium.com/install-odl-e2a67ecf032b
 
 ## Network Traffic Prediction using Knime Tool
 
+Time Series Analytics using Neural Networks for short-term network traffic prediction
 https://wh516x.medium.com/ndr-with-ann-for-short-term-network-traffic-prediction-d15a0d9572be
 
+Network Data Analytics with Artificial Neural Network
 https://wh516x.medium.com/nta-using-ann-441c9c10fed7-441c9c10fed7
 
+Review on dataset IP Network Traffic Flows Labeled with 75 Apps
 https://wh516x.medium.com/2-review-on-dataset-ip-network-traffic-flows-labeled-with-75-apps-da3b2aac1641
 
+Time Series Analytics using KNIME
 https://wh516x.medium.com/time-series-analytics-using-knime-5644aedf7143
 
+Time Series Analytics using Neural Networks
 https://wh516x.medium.com/nta-with-neural-networks-4f9b69a50af4 
 
 Network Data Analytics using KNIME
