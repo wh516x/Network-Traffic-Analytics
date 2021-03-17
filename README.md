@@ -81,7 +81,7 @@ Protecting Your Network With Modern Network Appliances https://wh516x.medium.com
 How To Do LTE Testing Using Network Automation  https://wh516x.medium.com/lte-testing-12324d565e20
 
 
-How to detect DOS attack or phishing attack or DDOS attack and then configure ODL for corrective action
+Detecting DOS, DDOS or Phishing attack and mitigating with ODL for corrective action
     https://wh516x.medium.com/how-to-detect-dos-attack-or-phishing-attack-or-ddos-attack-and-then-configure-odl-for-corrective-dace3c9575f8
 
 ## Simulations and Experimentations
