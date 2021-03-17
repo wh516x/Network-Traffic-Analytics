@@ -69,7 +69,7 @@ Enviornment has been setup to Monitor ODL/OpenStack Intelligence Plane Performan
 ## ODL Integrated Features 
 https://logicfinder.medium.com/dos-ddos0phishing-attack-5fad188dbb48
 
-## Applications of Intelligence Plane
+## Applications of ODL SDN Intelligence Plane
 
 Protecting Your Network With Modern Network Appliances https://wh516x.medium.com/protect-networkca2f15f4bec2-ca2f15f4bec2
 
