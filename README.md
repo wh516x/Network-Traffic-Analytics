@@ -72,7 +72,10 @@ https://logicfinder.medium.com/dos-ddos0phishing-attack-5fad188dbb48
 ## Applications of Intelligence Plane
 
 Protecting Your Network With Modern Network Appliances https://wh516x.medium.com/protect-networkca2f15f4bec2-ca2f15f4bec2
+
 How To Do LTE Testing Using Network Automation  https://wh516x.medium.com/lte-testing-12324d565e20
+
+
 How to detect DOS attack or phishing attack or DDOS attack and then configure ODL for corrective action
     https://wh516x.medium.com/how-to-detect-dos-attack-or-phishing-attack-or-ddos-attack-and-then-configure-odl-for-corrective-dace3c9575f8
 
