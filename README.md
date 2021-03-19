@@ -72,7 +72,7 @@ https://wh516x.medium.com/network-data-analytics-using-knime-5461294417eb
 Enviornment has been setup to Monitor ODL/OpenStack Intelligence Plane Performance 
 
 ## ODL Integrated Features 
-https://logicfinder.medium.com/dos-ddos0phishing-attack-5fad188dbb48
+
 
 ## Applications of ODL SDN Intelligence Plane
 
