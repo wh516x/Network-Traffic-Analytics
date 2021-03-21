@@ -29,6 +29,8 @@ https://wh516x.medium.com/single-node-rhos-deployment-93de81e6bf9e
 Redhat OpenStack Deployment
 https://wh516x.medium.com/rhos-deployment-734743a582e1
 
+OpenStack Cloud Installation Evaluation Report
+https://wh516x.medium.com/cloud-installation-790b26f7e239
 
 ## Project Idea and Scope
 ArtificiaNeural Network (ANNs) https://wh516x.medium.com/artificial-c1c53a8e1a7e
@@ -83,6 +85,9 @@ How To Do LTE Testing Using Network Automation  https://wh516x.medium.com/lte-te
 
 Detecting DOS, DDOS or Phishing attack and mitigating with ODL for corrective action
     https://wh516x.medium.com/how-to-detect-dos-attack-or-phishing-attack-or-ddos-attack-and-then-configure-odl-for-corrective-dace3c9575f8
+    
+Grafana Installation
+    https://wh516x.medium.com/grafana-bb8f79e4cd3d
 
 ## Simulations and Experimentations
 
