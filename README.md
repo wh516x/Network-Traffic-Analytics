@@ -32,6 +32,9 @@ https://wh516x.medium.com/rhos-deployment-734743a582e1
 OpenStack Cloud Installation Evaluation Report
 https://wh516x.medium.com/cloud-installation-790b26f7e239
 
+Creating Ubuntu Server
+https://wh516x.medium.com/ubuntu-edc1d1263b11
+
 ## Project Idea and Scope
 ArtificiaNeural Network (ANNs) https://wh516x.medium.com/artificial-c1c53a8e1a7e
 
@@ -88,10 +91,12 @@ Detecting DOS, DDOS or Phishing attack and mitigating with ODL for corrective ac
     
 Grafana Installation
     https://wh516x.medium.com/grafana-bb8f79e4cd3d
+    
+Automation Testing For LTE Call Flow    https://wh516x.medium.com/lte-call-flow-f54edefdead2
 
 ## Simulations and Experimentations
 
-How to Setup GNS3 with Opendaylight ? https://wh516x.medium.com/opendaylight-abc1b91430dd
+How to Setup GNS3 with Opendaylight https://wh516x.medium.com/opendaylight-abc1b91430dd
 
 Network Simulations For Heliconia https://wh516x.medium.com/network-simulations-dacded5a52f1
 
